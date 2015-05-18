@@ -1,0 +1,6 @@
+What to do:
+Workspace
+Project
+Package
+Compile Project
+Run Project
